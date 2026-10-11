@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="930" viewBox="0 0 360 930" role="img" aria-labelledby="fypTitle fypDesc" data-variant="mobile">
+<title id="fypTitle">University ticket orchestration: a request reaches a responsible department and person</title>
+<desc id="fypDesc">Students and staff submit university tickets. An orchestrator coordinates a university knowledge RAG agent and a workflow agent that analyzes each request and routes it to a responsible department and person.</desc>
+<style>text{font-family:Segoe UI,Arial,sans-serif}</style>
+<rect x="0" y="0" width="360" height="930" rx="12" fill="#faf8f3" stroke="#d9dedb" stroke-width="1.5"/>
+<text x="24" y="31" font-size="18" font-weight="600" fill="#376b80" text-anchor="start">FINAL-YEAR PROJECT</text>
+<text x="24" y="70" font-size="28" font-weight="600" fill="#24313b" text-anchor="start">A request.</text>
+<text x="24" y="106" font-size="28" font-weight="600" fill="#24313b" text-anchor="start">A responsible person.</text>
+<rect x="24" y="136" width="312" height="86" rx="12" fill="#ffffff" stroke="#d9dedb" stroke-width="1.5"/>
+<text x="42" y="167" font-size="21" font-weight="600" fill="#24313b" text-anchor="start">Students and staff</text>
+<text x="42" y="196" font-size="18" font-weight="400" fill="#53646d" text-anchor="start">Submit a university ticket</text>
+<path d="M180 222V252" fill="none" stroke="#376b80" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M175 245L180 252L185 245" fill="none" stroke="#376b80" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="24" y="252" width="312" height="90" rx="12" fill="#e8f2f5" stroke="#376b80" stroke-width="1.5"/>
+<text x="42" y="284" font-size="23" font-weight="600" fill="#24313b" text-anchor="start">Orchestrator</text>
+<text x="42" y="314" font-size="18" font-weight="400" fill="#53646d" text-anchor="start">Coordinate specialist agents</text>
+<path d="M180 342V382" fill="none" stroke="#376b80" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M175 375L180 382L185 375" fill="none" stroke="#376b80" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="24" y="382" width="312" height="132" rx="12" fill="#ffffff" stroke="#d9dedb" stroke-width="1.5"/>
+<text x="42" y="413" font-size="21" font-weight="600" fill="#24313b" text-anchor="start">Knowledge / RAG agent</text>
+<text x="42" y="443" font-size="18" font-weight="400" fill="#53646d" text-anchor="start">Retrieve relevant context</text>
+<text x="42" y="478" font-size="18" font-weight="600" fill="#376b80" text-anchor="start">University knowledge</text>
+<text x="42" y="501" font-size="18" font-weight="400" fill="#53646d" text-anchor="start">Service information and roles</text>
+<path d="M180 514V554" fill="none" stroke="#376b80" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M175 547L180 554L185 547" fill="none" stroke="#376b80" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="24" y="554" width="312" height="102" rx="12" fill="#ffffff" stroke="#d9dedb" stroke-width="1.5"/>
+<text x="42" y="586" font-size="21" font-weight="600" fill="#24313b" text-anchor="start">Workflow agent</text>
+<text x="42" y="616" font-size="18" font-weight="400" fill="#53646d" text-anchor="start">Analyze the request</text>
+<text x="42" y="641" font-size="18" font-weight="400" fill="#53646d" text-anchor="start">Route to the right owner</text>
+<path d="M180 656V698" fill="none" stroke="#376b80" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M175 691L180 698L185 691" fill="none" stroke="#376b80" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="24" y="698" width="312" height="114" rx="12" fill="#e8f2f5" stroke="#376b80" stroke-width="1.5"/>
+<text x="42" y="731" font-size="21" font-weight="600" fill="#24313b" text-anchor="start">Responsible department</text>
+<text x="42" y="762" font-size="21" font-weight="600" fill="#24313b" text-anchor="start">+ person concerned</text>
+<text x="42" y="793" font-size="18" font-weight="400" fill="#53646d" text-anchor="start">Handle the ticket</text>
+<text x="24" y="852" font-size="18" font-weight="400" fill="#53646d" text-anchor="start">Knowledge gives context.</text>
+<text x="24" y="878" font-size="18" font-weight="400" fill="#53646d" text-anchor="start">Orchestration connects the agents.</text>
+<text x="24" y="904" font-size="18" font-weight="400" fill="#53646d" text-anchor="start">Routing reaches a responsible person.</text>
+</svg>
