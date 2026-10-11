@@ -1,0 +1,10 @@
+[
+  {"id":"coordinator","name":"Nour Grove","department":"Human Triage","specialty":"Service coordination","roles":["student","staff"]},
+  {"id":"it-portal","name":"Lina Cedar","department":"IT Support","specialty":"Accounts and portal access","roles":["student","staff"]},
+  {"id":"it-devices","name":"Omar Birch","department":"IT Support","specialty":"Devices and wireless network","roles":["student","staff"]},
+  {"id":"student-records","name":"Maya Elm","department":"Student Services","specialty":"Letters and enrollment","roles":["student","staff"]},
+  {"id":"staff-hr","name":"Samir Pine","department":"Staff Administration","specialty":"Leave and payroll","roles":["staff"]},
+  {"id":"library-desk","name":"Dana Ash","department":"Library Services","specialty":"Loans and catalog access","roles":["student","staff"]},
+  {"id":"facilities-desk","name":"Karim Willow","department":"Facilities","specialty":"Rooms and building faults","roles":["student","staff"]},
+  {"id":"finance-desk","name":"Rania Maple","department":"Student Finance","specialty":"Invoices and payments","roles":["student","staff"]}
+]
