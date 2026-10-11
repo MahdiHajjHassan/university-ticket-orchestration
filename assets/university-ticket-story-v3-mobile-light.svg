@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="1148" viewBox="0 0 360 1148" role="img" aria-labelledby="universityTitle universityDesc" data-model="orchestrator-knowledge-context-workflow-analysis-and-assigned-ticket" data-variant="mobile" data-version="v3">
+<title id="universityTitle">University multi-agent ticket routing: knowledge context and a responsible owner</title>
+<desc id="universityDesc">Students and staff submit a university request. An orchestrator coordinates a knowledge RAG agent and a workflow agent. Retrieved university context supports request analysis, department selection and assignment to a responsible staff member.</desc>
+<style>text{font-family:Segoe UI,Arial,sans-serif}path,rect,circle,ellipse{shape-rendering:geometricPrecision}</style>
+<rect x="0" y="0" width="360" height="1148" rx="18" fill="#f5f7fa" stroke="none" stroke-width="1.5"/>
+<text x="24" y="48" font-size="28" font-weight="600" fill="#1c2d42" text-anchor="start">University ticket</text>
+<text x="24" y="88" font-size="28" font-weight="600" fill="#1c2d42" text-anchor="start">routing</text>
+<text x="24" y="124" font-size="20" font-weight="400" fill="#52647b" text-anchor="start">Find the responsible</text>
+<text x="24" y="153" font-size="20" font-weight="400" fill="#52647b" text-anchor="start">department and person.</text>
+<rect x="24" y="178" width="312" height="130" rx="14" fill="#ffffff" stroke="#ccd7e5" stroke-width="1.5"/>
+<text x="44" y="215" font-size="23" font-weight="600" fill="#1c2d42" text-anchor="start">Students + staff</text>
+<text x="44" y="250" font-size="22" font-weight="400" fill="#1c2d42" text-anchor="start">“I cannot access</text>
+<text x="44" y="283" font-size="22" font-weight="400" fill="#1c2d42" text-anchor="start">the course portal.”</text>
+<path d="M180 308V342" fill="none" stroke="#375aa2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M175 336L180 342L185 336" fill="none" stroke="#375aa2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="24" y="342" width="312" height="112" rx="14" fill="#e7edf8" stroke="none" stroke-width="1.5"/>
+<text x="44" y="381" font-size="25" font-weight="600" fill="#1c2d42" text-anchor="start">Orchestrator</text>
+<text x="44" y="414" font-size="19" font-weight="400" fill="#52647b" text-anchor="start">Coordinate the</text>
+<text x="44" y="442" font-size="19" font-weight="400" fill="#52647b" text-anchor="start">specialist agents</text>
+<path d="M180 454V498" fill="none" stroke="#375aa2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M175 492L180 498L185 492" fill="none" stroke="#375aa2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="24" y="498" width="312" height="178" rx="14" fill="#ffffff" stroke="#ccd7e5" stroke-width="1.5"/>
+<text x="44" y="537" font-size="23" font-weight="600" fill="#1c2d42" text-anchor="start">Knowledge / RAG agent</text>
+<text x="44" y="568" font-size="18" font-weight="400" fill="#52647b" text-anchor="start">Retrieve university context</text>
+<path d="M44 596H64L73 605V634H44Z" fill="#e7edf8" stroke="#375aa2" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M64 596V605H73 M51 613H66 M51 620H66 M51 627H61" fill="none" stroke="#375aa2" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="88" y="611" font-size="18" font-weight="400" fill="#1c2d42" text-anchor="start">Services + procedures</text>
+<text x="88" y="640" font-size="18" font-weight="400" fill="#1c2d42" text-anchor="start">Who handles each request</text>
+<path d="M180 676V734" fill="none" stroke="#375aa2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M175 728L180 734L185 728" fill="none" stroke="#375aa2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="198" y="710" font-size="18" font-weight="400" fill="#375aa2" text-anchor="start">Context</text>
+<path d="M336 398H348V809H336" fill="none" stroke="#375aa2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M342 804L336 809L342 814" fill="none" stroke="#375aa2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="24" y="734" width="312" height="150" rx="14" fill="#ffffff" stroke="#ccd7e5" stroke-width="1.5"/>
+<text x="44" y="774" font-size="24" font-weight="600" fill="#1c2d42" text-anchor="start">Workflow agent</text>
+<text x="44" y="807" font-size="19" font-weight="400" fill="#52647b" text-anchor="start">Analyze the request</text>
+<text x="44" y="836" font-size="19" font-weight="400" fill="#52647b" text-anchor="start">Select department</text>
+<text x="44" y="865" font-size="19" font-weight="400" fill="#52647b" text-anchor="start">Assign responsible person</text>
+<path d="M180 884V938" fill="none" stroke="#375aa2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M175 932L180 938L185 932" fill="none" stroke="#375aa2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="24" y="938" width="312" height="185" rx="14" fill="#e7edf8" stroke="none" stroke-width="1.5"/>
+<text x="44" y="978" font-size="25" font-weight="600" fill="#1c2d42" text-anchor="start">Assigned ticket</text>
+<text x="44" y="1015" font-size="22" font-weight="600" fill="#1c2d42" text-anchor="start">Responsible department</text>
+<path d="M44 1031H316" fill="none" stroke="#ccd7e5" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="44" y="1063" font-size="22" font-weight="600" fill="#1c2d42" text-anchor="start">Assigned staff member</text>
+<text x="44" y="1095" font-size="18" font-weight="400" fill="#52647b" text-anchor="start">A request someone can act on</text>
+</svg>

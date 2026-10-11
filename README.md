@@ -12,10 +12,10 @@ Students and staff submit requests through a university ticket platform. A login
 **AI approach:** multi-agent orchestration · retrieval-augmented generation (RAG) · request analysis · workflow routing
 
 <picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 520px)" srcset="assets/university-ticket-story-v2-mobile-dark.svg">
-  <source media="(max-width: 520px)" srcset="assets/university-ticket-story-v2-mobile-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/university-ticket-story-v2-dark.svg">
-  <img src="assets/university-ticket-story-v2-light.svg" alt="University ticket orchestration: students and staff submit a ticket, an orchestrator coordinates a university knowledge RAG agent and a workflow agent, and the ticket is routed to a department and responsible person." width="680">
+  <source media="(prefers-color-scheme: dark) and (max-width: 520px)" srcset="assets/university-ticket-story-v3-mobile-dark.svg">
+  <source media="(max-width: 520px)" srcset="assets/university-ticket-story-v3-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/university-ticket-story-v3-dark.svg">
+  <img src="assets/university-ticket-story-v3-light.svg" alt="Students and staff submit a university request. An orchestrator coordinates a knowledge RAG agent and a workflow agent. Retrieved university context supports request analysis, department selection and assignment to a responsible staff member." width="680">
 </picture>
 
 ### How the agents worked together
